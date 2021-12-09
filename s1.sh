@@ -1,3 +1,4 @@
+#!/bin/bash
 s="Hello"
 strlen=${#s}
 i=$((strlen-1))
