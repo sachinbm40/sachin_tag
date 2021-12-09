@@ -1,5 +1,6 @@
 #!/bin/bash
 # Test 1
+#test 2
 echo "enter the array value"
 read num
 i=1
