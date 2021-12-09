@@ -1,5 +1,6 @@
 #!/bin/bash
 #test
+#test 2
 s="Hello"
 strlen=${#s}
 i=$((strlen-1))
